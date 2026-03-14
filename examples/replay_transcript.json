@@ -1,0 +1,10 @@
+[
+  {
+    "send": "{\"cmd\":\"hello\"}",
+    "recv": "hello user"
+  },
+  {
+    "send": "{\"cmd\":\"list\"}",
+    "recv": "[]"
+  }
+]
